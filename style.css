@@ -1,0 +1,15 @@
+h1 img {
+  width: 17rem;
+  display: block;
+  margin: 10rem auto 0rem auto;
+}
+
+.search {
+  display: block;
+  margin: 1rem auto;
+  width: 35rem;
+  height: 2.5rem;
+  border-radius: 1rem;
+  border-style: groove;
+  border-color: whitesmoke;
+}
